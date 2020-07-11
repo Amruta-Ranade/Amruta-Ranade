@@ -1,5 +1,9 @@
 
-<img src="https://github.com/Amruta-Ranade/Amruta-Ranade/blob/master/GitHub%20Profile%20README%20image.png" alt="image" width="500" height="500">
+<p align="center">
+  <img src="https://github.com/Amruta-Ranade/Amruta-Ranade/blob/master/GitHub%20Profile%20README%20image.png" alt="image" width="500" height="500">
+</p>
+
+
 
 <!--
 ![Image](https://github.com/Amruta-Ranade/Amruta-Ranade/blob/master/GitHub%20Profile%20README%20image.png)
