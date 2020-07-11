@@ -1,6 +1,9 @@
-![Image](https://github.com/Amruta-Ranade/Amruta-Ranade/blob/master/GitHub%20Profile%20README%20image.png)
+
+<img src="https://github.com/Amruta-Ranade/Amruta-Ranade/blob/master/GitHub%20Profile%20README%20image.png" alt="image" width="500" height="500">
 
 <!--
+![Image](https://github.com/Amruta-Ranade/Amruta-Ranade/blob/master/GitHub%20Profile%20README%20image.png)
+
 ### Hi there 👋
 **Amruta-Ranade/Amruta-Ranade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
